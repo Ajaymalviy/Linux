@@ -1,0 +1,47 @@
+Just like Windows, iOS, and Mac OS, Linux is an operating system. In fact, one of the most popular platforms on the planet, Android, is powered by the Linux operating system. --> 
+                                                and  the operating system manages the communication between your software and your hardware. Without the operating system (OS), the software wouldn’t function.
+
+The Linux operating system comprises several different pieces:
+	Kernel – This is the one piece of the whole that is actually called ‘Linux’. The kernel is the core of the system and manages the CPU, memory, and peripheral devices. The kernel is the lowest level of the OS.
+	
+	Init system – This is a sub-system that bootstraps the user space and is charged with controlling daemons. One of the most widely used init systems is systemd, which also happens to be one of the most controversial. It is the init system that manages the boot process, once the initial booting is handed over from the bootloader (i.e., GRUB or GRand Unified 
+	Bootloader).
+
+	Daemons – These are background services (printing, sound, scheduling, etc.) that either start up during boot or after you log into the desktop.
+
+
+Why use Linux?
+---freeware.
+----open source .
+------support both GUI & CUI .
+----------provide good security than others.
+   
+
+   only signle line command will create my directries with its file instead of using GUI one by one ,freeware no need to any license ,open source in which we want to make changes in our code then we can. 
+
+flavors  of linux are :
+	ubuntu
+	fedore
+	susu
+	redhat
+	kali etc,...
+
+
+	they all are same after begning ,means at first they looks different but whene we going to use all this have same work some functionality can only be differ .
+
+
+there are two component of linux:
+1) shell
+2) kernal	
+ 
+ shell is outmost layer of linux which match the command exist or its content have ant mean or not and then give to the kernal which is taking responsibility of executing the command.
+
+ normally in linux have to see there are 5 different layer works to operate thing from command to hardware.
+ user ,application ,shell ,kernal,hardware.
+
+
+
+
+
+
+
